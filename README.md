@@ -15,6 +15,6 @@
 
 ## My socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](telegram.org/volkov_here) [![VKontakte](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=vk)](https:vk.com/ilvlkv) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](http://instagram.org/ilvlkv)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](http://telegram.org/volkov_here) [![VKontakte](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=vk)](http://vk.com/ilvlkv) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](http://instagram.org/ilvlkv)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilvlkv&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&hide_border=true&border_radius=0)
