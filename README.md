@@ -1,16 +1,16 @@
-### Hi there 👋
+# Front-end development's learner
 
-<!--
-**ilvlkv/ilvlkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Ilya Volkov, 21 y.o.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Learning programming for 3 months** (seems like it's my life's work)
+- **Bachelor of organization management of TSU**
+- **In love with video games and everything related to them**
+- **Happy, loving, determined person**
+
+---
+
+## My socials
+
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](telegram.org/volkov_here) [![VKontakte](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=vk)](https:vk.com/ilvlkv) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](http://instagram.org/ilvlkv)
