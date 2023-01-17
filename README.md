@@ -1,17 +1,17 @@
 ### Hello! :v: My name is Ilya and I'm...
 
-# Front-end development's learner
+# Front-end developer :)
 
 ## About me:
 
-- **Learning programming for 3 months** (seems like it's my life's work) :computer:
+- **Learning programming for 4 months** (seems like it's my life's work) :computer:
 - **Bachelor of organization management of TSU** :mortar_board:
 - **In love with video games and everything related to them** :video_game:
 - **Happy, loving, determined person** :heartpulse:
 
-## Languages and tools:
+## Tools:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3) ![html](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![html](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass)
 
 ## My socials:
 
