@@ -23,7 +23,7 @@
 
 ### Tools :wrench:
 
-![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker) ![vsc](https://img.shields.io/badge/vsc-000?style=for-the-badge&logo=visualstudiocode)
+![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker) ![vsc](https://img.shields.io/badge/vsc-000?style=for-the-badge&logo=visualstudiocode) ![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilvlkv&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&hide_border=true&border_radius=0)
 
