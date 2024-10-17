@@ -1,7 +1,5 @@
 ### Hello! :v: My name is Ilya and I'm...
 
-# User interfaces' developer :)
-
 ## About me:
 
 - **Learning programming for 5 months** :computer:
