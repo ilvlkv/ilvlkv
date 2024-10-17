@@ -1,11 +1,3 @@
-### Hello! :v: My name is Ilya and I'm...
-
-## About me:
-
-- **Learning programming for 5 months** :computer:
-- **Bachelor of organization management of TSU** :mortar_board:
-- **In love with video games and everything related to them** :video_game:
-- **Happy, loving, determined person** :heartpulse:
 
 ---
 
@@ -27,6 +19,3 @@
 
 ---
 
-## My socials:
-
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](http://telegram.org/volkov_here) [![VKontakte](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=vk)](http://vk.com/ilvlkv) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](http://instagram.org/ilvlkv)
